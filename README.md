@@ -2,7 +2,7 @@
 ---
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC5QrL9r64RgBCZPSQ2kccAQ?label=People%20who%20have%20viewed%20my%20channel%3A&style=social)
 
-An aspiring Software Engineer / Web Developer specializing in HTML, CSS, and JavaScript. I have fun creating technologies listed in the **toolbox** below ! 
+I am an aspiring Software Engineer / Web Developer specializing in HTML, CSS, and JavaScript. I have fun creating technologies listed in the **toolbox** below ! 
 
 I have a passion for teaching aspiring youth about thier potential in fields of STEM.
 
